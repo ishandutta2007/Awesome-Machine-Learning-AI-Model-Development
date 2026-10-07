@@ -9,7 +9,7 @@
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38/media/badge.svg)](https://github.com/ishandutta2007/Awesome-Awesome-Awesome)
 [![License: MIT](https://img.shields.github.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![PRs Welcome](https://img.shields.github.io/badge/PRs-Welcome-brightgreen.svg)](https://github.com/ishandutta2007/Awesome-Machine-Learning-AI-Model-Development/pulls)
-[![GitHub Stars](https://img.shields.github.io/github/stars/ishandutta2007/Awesome-Machine-Learning-AI-Model-Development?style=social)](https://github.com/ishandutta2007/Awesome-Machine-Learning-AI-Model-Development/stargazers)
+[![GitHub_Stars](https://img.shields.github.io/github/stars/ishandutta2007/Awesome-Machine-Learning-AI-Model-Development?style=social)](https://github.com/ishandutta2007/Awesome-Machine-Learning-AI-Model-Development/stargazers)
 <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 
 **Curated Directory of Commercial SaaS Platforms & Open-Source AI Frameworks**  
@@ -67,9 +67,9 @@ The following commercial platforms are sorted by **Company Valuation / Market Ca
 
 The open-source AI ecosystem powers the majority of modern machine learning research and production systems. 🌟
 
-The open-source repositories below are sorted strictly by **GitHub Star Count (descending)** 👑:
+The open-source repositories below are sorted strictly by **GitHub Stars_Count (descending)** 👑:
 
-| Project & Repo | Star Badge | License | Description & Primary Strengths |
+| Project & Repo | Stars_Badge | License | Description & Primary Strengths |
 | :--- | :--- | :--- | :--- |
 | **[TensorFlow](https://github.com/tensorflow/tensorflow)** | [![Stars](https://img.shields.github.io/github/stars/tensorflow/tensorflow?style=social&color=white)](https://github.com/tensorflow/tensorflow/stargazers) | Apache-2.0 | Google's end-to-end machine learning platform for large-scale production training, mobile (TF Lite), and web deployment. |
 | **[Ollama](https://github.com/ollama/ollama)** | [![Stars](https://img.shields.github.io/github/stars/ollama/ollama?style=social&color=white)](https://github.com/ollama/ollama/stargazers) | MIT | Get up and running with Llama 3, Mistral, Gemma, and other large language models locally on macOS, Linux, and Windows. |
